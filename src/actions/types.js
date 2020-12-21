@@ -1,0 +1,10 @@
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const SIGNUP_USER = 'SIGNUP_USER';
+export const LOGIN_USER = 'LOGIN_USER';
+export const FETCH_PARTY = 'FETCH_PARTY';
+export const ADD_PARTY = 'ADD_PARTY';
+export const EDIT_PARTY = 'EDIT_PARTY';
+export const DELETE_PARTY = 'DELETE_PARTY';
+export const FETCH_OFFICE = 'FETCH_OFFICE';
+export const ADD_OFFICE = 'ADD_OFFICE';
+export const GET_OFFICE_CANDIDATE = 'GET_OFFICE_CANDIDATE';

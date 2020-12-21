@@ -1,0 +1,25 @@
+#officeList table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: auto;
+  border: 1px solid #ccc;
+}
+
+#officeList th,
+td {
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+#officeList tr:nth-child(odd) {
+  background: rgb(218, 189, 189);
+}
+
+#officeList th {
+  background-color: #a12e0f;
+  color: white;
+  text-align: center;
+}
+#officeList button {
+  cursor: pointer;
+}

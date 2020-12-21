@@ -1,0 +1,4 @@
+UPLOADPRESET=your preset
+UPLOADCLOUDNAME=cloudinary username
+UPLOADFOLDER=upload folder
+URL=api url

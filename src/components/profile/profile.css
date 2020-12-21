@@ -1,0 +1,17 @@
+.wallpaper {
+  background: url(../../img/wallpaper2.jpg) repeat-y 0 0;
+}
+.alignTxtRight {
+  text-align: right;
+}
+.alignTxtLeft {
+  text-align: left;
+}
+.radius {
+  border-radius: 5px !important;
+}
+
+ .isCentered{
+  background-color: #fff !important;
+  text-align: center !important;
+ }
